@@ -1,16 +1,15 @@
-## Hi there 👋
+# ⚡ PrimeEmpire
 
-<!--
-**PrimeEmpire/PrimeEmpire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PrimeEmpire ist ein laufendes Minecraft/Server-Projekt, das aktiv weiterentwickelt wird 👨‍💻✨
 
-Here are some ideas to get you started:
+## 🔧 Aktueller Stand
+Ich arbeite wieder ein bisschen am Projekt und baue nach und nach neue Features ein 👀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 Sneak Peeks
+Es kann sein, dass bald wieder kleine Einblicke in den Fortschritt kommen 🤫🔥
+
+## 🚀 Ziel
+Ein stabiler, spannender und einzigartiger Server mit regelmäßigen Updates und neuen Ideen
+
+## 📌 Hinweis
+Das Projekt befindet sich noch in Entwicklung, vieles kann sich noch ändern ⚙️
